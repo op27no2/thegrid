@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579146408047",
+    "firebase_url": "https://thegrid-80437.firebaseio.com",
+    "project_id": "thegrid-80437",
+    "storage_bucket": "thegrid-80437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579146408047:android:b8f01fefcce92926",
+        "android_client_info": {
+          "package_name": "op27no2.thegrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579146408047-o7dn41f19ve4j68es2niiluvmhqtvqvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "op27no2.thegrid",
+            "certificate_hash": "cde9ff350b444834f44c41a1c35361ca44b0c339"
+          }
+        },
+        {
+          "client_id": "579146408047-msdpko6mi240287rmb3ee6pe7rfaj3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOY5ZTZM3lFqrODyYZmZ85MjuUpGxvsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579146408047-msdpko6mi240287rmb3ee6pe7rfaj3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
